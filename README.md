@@ -1,4 +1,3 @@
-readme_content = """
 # Anime Data Analysis
 
 This project involves analyzing an anime dataset, performing data cleaning, and visualizing insights such as top-rated anime, most popular anime by members, and more.
